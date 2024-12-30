@@ -19,3 +19,5 @@
 <a href="https://www.linkedin.com/in/kennethpostigo/"&gt;&lt;img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Kenneth%20Postigo-orange?style=flat-square&logo=linkedin"></a>
 <a href="postigo.kura@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-postigo.kura@gmail.com-orange?style=flat-square&logo=gmail"></a>
 </p>
+
+![](https://19a7-2603-6010-b100-8d-8ac-8568-a913-5bd.ngrok-free.app/pixel.gif)
