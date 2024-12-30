@@ -20,4 +20,4 @@
 <a href="postigo.kura@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-postigo.kura@gmail.com-orange?style=flat-square&logo=gmail"></a>
 </p>
 
-![](https://409b-2603-6010-b100-8d-8ac-8568-a913-5bd.ngrok-free.app/pixel.gif?cache=no)
+![](https://8eb1-2603-6010-b100-8d-8ac-8568-a913-5bd.ngrok-free.app/pixel.gif?cache=no)
