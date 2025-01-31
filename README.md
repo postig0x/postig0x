@@ -10,8 +10,6 @@
 
 💼 I'm looking for opportunities that push the limits of ordinary services or products to build true value proposition
 
-<br/>
-
 <h3> Connect with Me </h3>
 <ul>
   <li>
