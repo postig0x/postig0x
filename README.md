@@ -15,6 +15,6 @@
 <h3> 🤝🏻  Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/kennethpostigo"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-Kenneth%20Postigo-violet?style=flat">
+<a href="https://www.linkedin.com/in/kennethpostigo"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-violet?style=plastic">
 <a href="postigo.kura@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-postigo.kura@gmail.com-orange?style=flat-square&logo=gmail"></a>
 </p>
