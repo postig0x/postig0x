@@ -18,6 +18,6 @@
     <a href="https://www.linkedin.com/in/kennethpostigo"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-violet?style=plastic"></a>
   </li>
   <li>
-    <a href="postigo.kura@gmail.com"><img alt="Email" src="https://img.shields.io/badge/email-violet?style=plastic"></a>
+    <a href="mailto:postigo.kura@gmail.com"><img alt="Email" src="https://img.shields.io/badge/email-violet?style=plastic"></a>
   </li>
 </ul>
