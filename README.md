@@ -2,7 +2,7 @@
 
 <h3> About Me </h3>
 
-🤔 Hardware & Software Engineer - DevOps, AI, firmware, web/mobile
+🤔 Hardware & Software Engineer - DevOps, LLM/ML, firmware, web/mobile
 
 🎓 B.S. in Electrical Engineering @ Tufts
 
